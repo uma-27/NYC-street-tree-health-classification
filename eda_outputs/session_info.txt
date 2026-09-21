@@ -1,0 +1,14 @@
+R version 4.x
+Platform and attached package information captured during the STAT5003 exploratory analysis workflow.
+
+Primary packages used in the project:
+- readr
+- dplyr
+- tidyr
+- ggplot2
+- forcats
+- scales
+- patchwork
+- knitr
+
+See the Quarto report and main.r for the full analysis workflow and reproducibility steps.
